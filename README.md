@@ -1,4 +1,4 @@
-# browserlist-config-tao
+# browserslist-config-tao
 
 Shareable _Browserslist_ for TAO
 
@@ -9,7 +9,7 @@ This configuration can be used by all the tools that supports [browserslist](htt
 Add this package in your dependencies : 
 
 ```
-npm install --save-dev @oat-sa/browserlist-config-tao
+npm install --save-dev @oat-sa/browserslist-config-tao
 ```
 
 Then in your `package.json` :
