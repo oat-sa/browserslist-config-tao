@@ -1,0 +1,35 @@
+{
+    "name": "@oat-sa/browserlist-config-tao",
+    "version": "0.1.0",
+    "description": "Shareable Browserslist config for TAO",
+    "main": "index.js",
+    "scripts": {
+        "browserslist": "node query.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/oat-sa/browserlist-config-tao.git"
+    },
+    "keywords": [
+        "browserslist",
+        "oat",
+        "tao",
+        "desktop"
+    ],
+    "author": {
+        "name": "Bertrand Chevrier",
+        "email": "bertrand@taotesting.com",
+        "url": "https://taotesting.com"
+    },
+    "license": "GPL-2.0-only",
+    "bugs": {
+        "url": "https://github.com/oat-sa/browserlist-config-tao/issues"
+    },
+    "homepage": "https://github.com/oat-sa/browserlist-config-tao#readme",
+    "publishConfig": {
+        "access": "public"
+    },
+    "devDependencies": {
+        "browserslist": "^4.5.5"
+    }
+}
