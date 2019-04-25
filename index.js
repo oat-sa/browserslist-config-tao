@@ -22,7 +22,7 @@
  *  - last 2 version of Chrome and Firefox for Android, and iOS browsers
  *  - IE 11
  * See https://www.taotesting.com/get-tao/system-requirements/
- * See hhttps://github.com/browserslist/browserslist#shareable-configs
+ * See https://github.com/browserslist/browserslist#shareable-configs
  */
 module.exports = [
     'last 2 chrome versions',
