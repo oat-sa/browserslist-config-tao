@@ -30,6 +30,6 @@
         "access": "public"
     },
     "devDependencies": {
-        "browserslist": "^4.5.5"
+        "browserslist": "^4.8.3"
     }
 }
