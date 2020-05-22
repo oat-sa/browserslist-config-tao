@@ -18,8 +18,9 @@
 
 /**
  * The shared supported browsers by TAO :
- *  - last 2 versions of Chrome, Firefox, Edge and Safari
+ *  - last 2 versions of Chrome, Firefox and Safari
  *  - last 2 version of Chrome and Firefox for Android, and iOS browsers
+ *  - last 1 version of Edge
  *  - IE 11
  * See https://www.taotesting.com/get-tao/system-requirements/
  * See https://github.com/browserslist/browserslist#shareable-configs
@@ -31,6 +32,6 @@ module.exports = [
     'last 2 firefox versions',
     'last 2 ios versions',
     'last 2 safari versions',
-    'last 2 edge versions',
+    'last 1 edge version',
     'ie 11'
 ];
