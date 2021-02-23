@@ -25,12 +25,11 @@
  * See https://github.com/browserslist/browserslist#shareable-configs
  */
 module.exports = [
-    'last 2 chrome versions',
-    'last 2 and_chr versions',
-    'last 2 and_ff versions',
-    'last 2 firefox versions',
-    'last 2 ios versions',
-    'last 2 safari versions',
-    'last 2 edge versions',
-    'ie 11'
+    'last 2 maintained chrome versions',
+    'last 2 maintained and_chr versions',
+    'last 2 maintained and_ff versions',
+    'last 2 maintained firefox versions',
+    'last 2 maintained ios major versions',
+    'last 2 maintained safari versions',
+    'last 2 maintained edge versions'
 ];
