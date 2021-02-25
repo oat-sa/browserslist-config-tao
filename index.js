@@ -31,5 +31,6 @@ module.exports = [
     'last 2 maintained firefox versions',
     'last 2 maintained ios major versions',
     'last 2 maintained safari versions',
-    'last 2 maintained edge versions'
+    'last 2 maintained edge versions',
+    'ie 11'
 ];
