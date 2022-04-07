@@ -28,7 +28,8 @@ module.exports = [
     'last 2 and_chr versions',
     'last 2 and_ff versions',
     'last 2 firefox versions',
-    'last 2 ios versions',
-    'last 2 safari versions',
-    'last 2 edge versions'
+    'last 2 ios major versions',
+    'last 2 safari major versions',
+    'last 2 edge versions',
+    'not dead'
 ];
