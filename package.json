@@ -1,6 +1,6 @@
 {
     "name": "@oat-sa/browserslist-config-tao",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Shareable Browserslist config for TAO",
     "main": "index.js",
     "scripts": {
@@ -31,6 +31,5 @@
     },
     "devDependencies": {
         "browserslist": "^4.20.2"
-    },
-    "dependencies": {}
+    }
 }
