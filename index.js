@@ -31,7 +31,7 @@ module.exports = [
     'last 2 ios major versions',
     'last 2 safari major versions',
     'last 2 edge versions',
-    'not safari <= 17.4',
-    'not ios <= 17.4',
+    'not safari < 17.4',
+    'not ios < 17.4',
     'not dead'
 ];
