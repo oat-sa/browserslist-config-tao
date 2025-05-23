@@ -13,7 +13,7 @@
  * along with this program; if not, write to the Free Software
  * Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
  *
- * Copyright (c) 2019 Open Assessment Technologies SA;
+ * Copyright (c) 2019-2025 Open Assessment Technologies SA;
  */
 
 /**
@@ -31,5 +31,7 @@ module.exports = [
     'last 2 ios major versions',
     'last 2 safari major versions',
     'last 2 edge versions',
+    'not safari < 17.4',
+    'not ios < 17.4',
     'not dead'
 ];
