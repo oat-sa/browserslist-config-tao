@@ -1,8 +1,12 @@
 {
     "name": "@oat-sa/browserslist-config-tao",
-    "version": "1.0.3",
+    "version": "1.1.0",
     "description": "Shareable Browserslist config for TAO",
     "main": "index.js",
+    "exports": {
+        ".": "./index.js",
+        "./custom-browsers.js": "./custom-browsers.js"
+    },
     "scripts": {
         "browserslist": "node query.js"
     },
